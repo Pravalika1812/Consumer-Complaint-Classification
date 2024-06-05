@@ -15,3 +15,10 @@ generalization. This project highlights the utility of NLP and machine learning 
 sector, which could lead to quicker resolutions
 and enhanced customer satisfaction.
 
+For this project, we utilized a real-time dataset obtained from the Consumer Financial Bureau, an official website of the United States Government.
+The dataset spans a decade of consumer submissions, ranging from December 2011 to February 2024, comprises 4,858,723 rows and 18 columns, 
+including features such as Date received, Product, Sub-product, Issue, Sub-issue, Consumer colaint narrative, Company public response, Company, State, ZIP code, Tags, Consumer consent
+provided?, Submitted via, Date sent to company,Company response to consumer, Timely response,Consumer disputed, and Complaint id.
+The relevant features that we are considering for the classification are Product, Sub-product and Consumercomplaint narrative.
+
+We took the data from the website : https://www.consumerfinance.gov/data-research/consumer-complaints/
