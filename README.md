@@ -15,12 +15,3 @@ generalization. This project highlights the utility of NLP and machine learning 
 sector, which could lead to quicker resolutions
 and enhanced customer satisfaction.
 
-The workflow for our consumer complaints classification project involves several key steps aimed at preparing the data, building baseline models(Multinomial Naive Bayes, Random Forest, Decision Tree, Gradient Boosting, and XGBoost), and evaluating the performance of a pre-trained language model named Bidirectional Encoder Representation from Transformers (BERT) [5]. Below are the detailed steps we have followed and plan to follow and shown in the Figure 1:
-
-\begin{figure*}[htpb]
-
-        \centering
-        \includegraphics[width=0.8\linewidth]{Architecture.png}
-        \caption{Architecture Diagram}
-        \label{fig:enter-label}
-\end{figure*}
