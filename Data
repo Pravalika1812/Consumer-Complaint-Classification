@@ -1,1 +1,1 @@
-
+For this project, we utilized a real-time dataset obtained from the Consumer Financial Bureau, an official website of the United States Government.The dataset spans a decade of consumer submissions, ranging from December 2011 to February 2024, comprises 4,858,723 rows and 18 columns, including features such as Date received, Product, Sub-product, Issue, Sub-issue, Consumer co
